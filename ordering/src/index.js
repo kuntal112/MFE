@@ -1,0 +1,2 @@
+const orderingContainer=document.getElementById("orderingRoot");
+orderingContainer.innerHTML="<div style='color : #ffff ; background-color: #c66900; height:40px; line-height:220%; text-align:center;'> Ordering </div>"
